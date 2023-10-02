@@ -8,6 +8,6 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     vault.io/secrets-path: devportal
 spec:
-  type: devops
+  type: service
   lifecycle: experimental
   owner: "group:default/admin"
